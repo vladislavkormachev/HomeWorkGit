@@ -1,2 +1,3 @@
 Hello Academ IT School!!!
 I liked the first lecture of the course"Test automation!!!
+Question: Is it possible to start a career in test automation without any experience in manual testing?:)
